@@ -1,4 +1,4 @@
-# Music Recommendation App
+# Content-Based Music Recommendation System 
 
 ## Kaggle : https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset
 
@@ -112,5 +112,6 @@ License & Contact
 -----------------
 
 This repository is provided as-is for educational/demo purposes. For questions or help, open an issue or contact the project owner.
+
 
 
