@@ -1,5 +1,7 @@
 # Music Recommendation App
 
+## Kaggle : https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset
+
 Lyrics-based content recommender with a lightweight Streamlit UI.
 
 This project demonstrates a production-minded, content-based music recommender that uses song lyrics, TF‑IDF vectorization, and approximate nearest neighbours (cosine similarity) to find similar tracks. It includes a Jupyter notebook for exploration and standalone scripts for preprocessing and serving recommendations.
@@ -81,9 +83,19 @@ Demo of the Code
 `python src/preprocess.py`
 `python -m streamlit run src/app.py`
 
+<img width="1892" height="652" alt="image" src="https://github.com/user-attachments/assets/24e5c37b-4fd2-44ff-b2c2-f9fdf8d9d0f5" />
 
+---
 
+<img width="1878" height="601" alt="image" src="https://github.com/user-attachments/assets/986b483b-8966-444a-8c43-a74e4941a583" />
 
+---
+
+<img width="1918" height="745" alt="image" src="https://github.com/user-attachments/assets/19f42a35-e46e-4303-9d10-912685f355e5" />
+
+---
+
+<img width="1917" height="938" alt="image" src="https://github.com/user-attachments/assets/d86cbd18-5e72-4a82-ae5c-a024233a960c" />
 
 
 
@@ -100,4 +112,5 @@ License & Contact
 -----------------
 
 This repository is provided as-is for educational/demo purposes. For questions or help, open an issue or contact the project owner.
+
 
