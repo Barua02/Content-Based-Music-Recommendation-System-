@@ -1,0 +1,10 @@
+pandas
+nltk
+scikit-learn
+joblib
+streamlit
+
+
+### How to run
+#python src/preprocess.py
+#python -m streamlit run src/app.py
